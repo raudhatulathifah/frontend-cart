@@ -1,0 +1,30 @@
+/* CSS untuk penataan elemen detail */
+.product-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.quantity-controls .btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #D9D9D9;
+}
+
+.btn-light {
+    background-color: #D9D9D9;
+    color: #000;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.text-success {
+    color: #28a745;
+}
+
+.container {
+    margin-top: 30px;
+}
